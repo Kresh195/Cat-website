@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Rubik+Bubbles&display=swap');
+
+body {
+    background-color: rgb(176, 247, 224);
+    text-align: center;
+    font-family: 'Lobster', sans-serif;
+    font-size: larger;
+}
+
+h1, h2 {
+    font-family: 'Rubik Bubbles';
+}
+
+img {
+    height: 25%;
+    width: 25%;
+}
